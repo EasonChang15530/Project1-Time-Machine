@@ -21,4 +21,4 @@ The Time Machine app provides users with an easy, fun way to learn about history
 * Carmel Meyer (https://carmel-m.github.io/Bootstrap-Portfolio/)
 * Keaton Sentak (https://ksentak.github.io/Bootstrap-Portfolio/)
 * Zachary Powers (https://magicalpowers.github.io/Bootstrap-Portfolio/)
-* Bailing Zhang (https://easonchang15530.github.io/Basic-Portfolio/)
+* Bailing Zhang (https://easonchang15530.github.io/Bootstrap-Portfolio/)
